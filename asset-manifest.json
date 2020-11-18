@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/conference-hub/static/js/main.1794af2e.chunk.js",
+    "main.js.map": "/conference-hub/static/js/main.1794af2e.chunk.js.map",
+    "runtime-main.js": "/conference-hub/static/js/runtime-main.5386a1ef.js",
+    "runtime-main.js.map": "/conference-hub/static/js/runtime-main.5386a1ef.js.map",
+    "static/js/2.0fbc2dc8.chunk.js": "/conference-hub/static/js/2.0fbc2dc8.chunk.js",
+    "static/js/2.0fbc2dc8.chunk.js.map": "/conference-hub/static/js/2.0fbc2dc8.chunk.js.map",
+    "index.html": "/conference-hub/index.html",
+    "static/js/2.0fbc2dc8.chunk.js.LICENSE.txt": "/conference-hub/static/js/2.0fbc2dc8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5386a1ef.js",
+    "static/js/2.0fbc2dc8.chunk.js",
+    "static/js/main.1794af2e.chunk.js"
+  ]
+}
